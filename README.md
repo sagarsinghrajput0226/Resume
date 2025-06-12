@@ -1,8 +1,8 @@
 # 📄 Resume – Sagar Singh Rajput
 
-This repository contains my latest professional resume.
+Welcome! This repository contains my latest professional resume.
 
-🔗 [Click here to view/download the PDF directly]([https://raw.githubusercontent.com/sagarsinghrajput0226/resume/main/Sagar_Resume.pdf])
+🔗 **[Click here to view or download the PDF directly](https://raw.githubusercontent.com/sagarsinghrajput0226/Resume/main/Resume_Sagar_Singh.pdf)**
 
 ---
 
